@@ -52,7 +52,7 @@ simple-calculator/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/simple-calculator.git
+git clone https://github.com/FardinOfficial/simple-calculator.git
 ```
 
 2. Open the project folder.
